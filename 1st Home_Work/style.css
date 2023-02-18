@@ -1,0 +1,164 @@
+    .block0 h1{
+
+        text-align: center;
+        color: goldenrod;
+    }
+
+
+    .block0 h2{
+
+        text-align: center;
+        color: darkolivegreen;
+
+    }
+
+    .block0{
+
+        border: 1px solid black;
+        border-width: 0.2cm;
+        margin: 50px;
+        background-color: antiquewhite;
+    }
+
+
+    .block0 img{
+
+        width: 300px;
+        height: 300px;
+        padding: 10px 50px 50px 700px;
+    }
+
+    .block1{
+
+        background-color:rgb(94, 94, 77);
+        margin: 50px;
+
+    }
+
+    .block1 img {
+
+        width: 300px;
+        height: 300px;
+        padding: 50px 50px 0px 50px;
+
+    }
+
+    .block1 p {
+
+        padding: 0px 50px 50px 50px;
+        color: beige; 
+        font-size: 20px; 
+    }
+
+
+    .block1 h3 {
+
+        padding-bottom: 0px;
+        padding-left: 50px;
+        color: beige;
+    }
+
+    .block2{
+
+        background-color:rgb(76, 138, 129);
+        margin: 50px;
+
+    }
+
+    .block2 img {
+
+        width: 300px;
+        height: 300px;
+        padding: 50px 50px 0px 50px;
+    }
+
+
+    .block2 h3 {
+
+        padding-bottom: 0px;
+        padding-left: 50px;
+        color: beige;
+        
+    }
+
+    .block2 p {
+
+        padding: 0px 50px 50px 50px;
+        color: beige;  
+        font-size: 20px; 
+    
+    }
+
+    .block3{
+
+        background-color:rgb(51, 144, 85);
+        margin: 50px;
+
+    }
+
+    .block3 img {
+
+        width: 300px;
+        height: 300px;
+        padding: 50px 50px 0px 50px;
+    }
+
+
+    .block3 h3 {
+
+        padding-bottom: 0px;
+        padding-left: 50px;
+        color: beige;
+        
+    }
+
+    .block3 p {
+
+        padding: 0px 50px 50px 50px;
+        color: beige; 
+        font-size: 20px; 
+    }
+
+    .block4 h3 {
+
+        padding-bottom: 0px;
+        padding-left: 50px;
+        color: beige;   
+     }
+
+    .block4{
+
+        background-color:rgb(115, 140, 190);
+        margin: 50px;
+        font-size: 20px; 
+     }
+
+    .block4 img {
+
+        padding: 50px 50px 0px 50px;
+        width: 300px;
+        height: 300px;
+     
+    }
+
+    .block4 p {
+
+        padding: 0px 50px 50px 50px;
+        color: beige;  
+    }
+
+    .block5{
+
+        text-align: center;
+        border: 1px solid black;
+        border-width: 0.2cm;
+        margin: 50px;
+        background-color: antiquewhite;
+
+    }
+
+    .block5 img{
+        padding: 10px;
+        height: 40px;
+        width: 40px;
+    }
