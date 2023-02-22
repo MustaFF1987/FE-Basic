@@ -1,0 +1,116 @@
+    *{
+
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;  
+    }
+
+    .block1{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    background-image: url(https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+    background-size: cover;
+    /* background-repeat: repeat-y; repeat -x; */
+    /* background-position: left/center/right top/center/bottom;
+    background-position: center center; *
+    /* background-position: 50% 0%; */
+    background-attachment: fixed ;
+    }
+
+    .block2{
+        width: 500px;
+        height: 5000px;
+        border: 1px solid black;
+        box-shadow: 25px 25px 25px 25px grey;
+    }
+
+    .h1{
+
+        margin-bottom: 20px;
+
+    }
+
+    .h1:hover{
+
+      color: yellow;
+    }
+
+    .block3{
+        text-align: justify;
+        width: 500px;
+        height:1000px;
+        border: 1px solid black;
+        box-shadow: 0px 5px 20px 5px grey;  
+        padding: 50px;   
+        }
+
+
+        .block3:hover{
+
+            background-color: pink;
+            /* font-size: 15px;
+            color: yellowgreen;
+             */
+        }
+
+
+        .block3:hover .p1{
+
+            display: none;
+
+        }
+/* 
+    body{
+        background-repeat: repeat-y; 
+        background-position: right top;
+        background-image: url();
+        } */
+    
+
+        
+    /* .block4{
+        text-align: justify;
+        width: 500px;
+        border: 1px solid black;
+        box-shadow: 0px 5px 20px 5px grey;  
+        padding: 50px; 
+     }
+     */
+
+    .Link1{
+
+        font-size: 20px;
+        color:blue;
+    }
+
+    .Link1:hover{
+
+        color:black;
+        text-decoration: none;
+            
+    }
+
+     .Link2{
+       
+        font-size: 20px;
+        color:green;
+    }  
+
+     .Link2:hover{
+
+        text-decoration-line:line-through;
+    }
+
+    
+    .Link3{
+
+        font-size: 20px;
+        color:red;
+    }
+
+     .Link3:hover{
+
+        text-decoration-line:overline;
+        
+     }

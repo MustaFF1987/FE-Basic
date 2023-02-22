@@ -1,0 +1,23 @@
+p{
+
+    margin: 50px;
+    width: 600px;
+    text-align: justify;
+    font-size: 20px;
+
+}
+
+
+h1{
+
+    margin-top: 50px;
+}
+
+
+body{
+
+    background: url(pushkin-aleksandr.jpg) bottom center /500px 600px no-repeat;
+    background-attachment: fixed;
+    
+}
+
