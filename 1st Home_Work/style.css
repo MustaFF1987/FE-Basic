@@ -1,14 +1,14 @@
     .block0 h1{
 
         text-align: center;
-        color: goldenrod;
+        color:aliceblue;
     }
 
 
     .block0 h2{
 
         text-align: center;
-        color: darkolivegreen;
+        color:azure;
 
     }
 
@@ -17,7 +17,8 @@
         border: 1px solid black;
         border-width: 0.2cm;
         margin: 50px;
-        background-color: antiquewhite;
+        background: url(Blog_background.jpg)  no-repeat;
+        background-size: cover;
     }
 
 
@@ -25,11 +26,14 @@
 
         width: 300px;
         height: 300px;
-        padding: 10px 50px 50px 700px;
+        padding: 10px 50px 50px 900px;
     }
 
     .block1{
 
+        background: url(Book_without_background.png) no-repeat;
+        background-position: center;
+        background-size: 600px 300px;
         background-color:rgb(94, 94, 77);
         margin: 50px;
 
@@ -37,6 +41,7 @@
 
     .block1 img {
 
+        
         width: 300px;
         height: 300px;
         padding: 50px 50px 0px 50px;
@@ -60,6 +65,9 @@
 
     .block2{
 
+        background: url(Dumbbels.png) no-repeat;
+        background-position: center;
+        background-size: 1000px 600px;
         background-color:rgb(76, 138, 129);
         margin: 50px;
 
@@ -91,6 +99,8 @@
 
     .block3{
 
+        background: url(Chart.jpg) no-repeat;
+        background-position: center;
         background-color:rgb(51, 144, 85);
         margin: 50px;
 
@@ -128,6 +138,8 @@
 
     .block4{
 
+        background: url(Learning_without_background.png) no-repeat;
+        background-position: center;
         background-color:rgb(115, 140, 190);
         margin: 50px;
         font-size: 20px; 
