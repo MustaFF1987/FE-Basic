@@ -1,0 +1,50 @@
+*{
+    margin: 25px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+  .square1{
+  
+        margin: 0 auto ;
+        position: relative;
+        width: 250px;
+        height: 475px;
+        border: 1px solid black;
+    }
+
+    .square2{
+
+        position: absolute;
+        top: 75px;
+        left: 665px;
+        width: 115px;
+        height: 115px;
+        background-color: red;
+        border: 1px solid black;
+        border-radius: 50%;
+    }
+
+    
+    .square3{
+
+        position: absolute;
+        top: 200px;
+        left: 665px;
+        width: 115px;
+        height: 115px;
+        background-color: yellow;
+        border: 1px solid black;
+        border-radius: 50%;
+    }
+
+    .square4{
+        position: absolute;
+        top: 325px;
+        left: 665px;
+        width: 115px;
+        height: 115px;
+        background-color: green;
+        border: 1px solid black;
+        border-radius: 50%;
+    }

@@ -1,0 +1,38 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.menu{
+
+    background-color: aqua;
+    border: 1px solid blue;
+    width: 700px;
+    margin: 0 auto;
+}
+
+
+ul{
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+li{
+
+    list-style-type: none;
+}
+
+a{
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+a:hover{
+
+    background-color: white;
+}

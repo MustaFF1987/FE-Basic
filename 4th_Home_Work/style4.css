@@ -1,0 +1,38 @@
+*{
+    margin: 25px;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+  .square1{
+    
+        position: absolute;
+        top: 50px;
+        left: 50px;
+        width: 100px;
+        height: 100px;
+        background-color: #FF8888;
+        z-index: 0;
+    }
+
+    .square2{
+
+        position: absolute;
+        top: 110px;
+        left: 110px;
+        width: 100px;
+        height: 100px;
+        background-color: #7E89EB;
+        z-index: 1;
+    }
+
+    .square3{
+
+        position: absolute;
+        top: 170px;
+        left: 170px;
+        width: 100px;
+        height: 100px;  
+        background-color: #4DEE99;
+        z-index: 2;
+    } 

@@ -1,0 +1,110 @@
+
+
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.block{
+
+    width:600px;
+    margin: 0 auto;
+    border: 5px solid red;
+    height: 1500px;
+    
+    /* position:relative; */
+
+}
+
+.block div{
+
+    font-size: 18px;
+    text-align: center;
+    padding: 20px 0;
+   
+}
+
+.block1{
+
+    background-color: aqua;
+    /* z-index: 1;
+    position: relative; */
+}
+
+.block2{
+  
+    background-color: blue;
+    /* position: static; */
+    /*По умолчанию
+         Элементы отображаются как обычно. Использование свойств left, top, right, bottom и z-index не приводит к каким-либо результатам. */
+
+         /* position: relative;
+            /* Положение элемента устанавливается относительно его исходного положения в коде. Добавление свойств left, top, right и bottom изменяет позицию элемента и сдвигает его в ту или иную сторону от первоначального расположения. */
+
+         left: 50px;
+         top: 20px; 
+         /* right: 50px; */
+         /* bottom: 20px; */
+         /* z-index: 0; */
+
+         /* position: absolute;
+         /* теряет связь с нашим контейнером */
+/* 
+         left: 0px;
+         top: 20px;
+         width: 300px;  */
+         /* position: fixed;
+           /* теряет связь с нашим контейнером и вернуть связь уже нельзя */
+         /* top: 0px;
+         left: 0px;
+         width:100%; 
+        position: sticky;
+        top: 0;
+}
+
+
+.block3{
+
+    background-color: violet;
+    /* position: relative;
+    z-index: 1; */
+   /* при работе с z-index: надо дать  position: relative ибо по умолчанию стоит position: static  */
+
+}
+
+.block4{
+
+    background-color: greenyellow;
+    position: sticky;
+    top: 0;
+
+
+}
+.block5{
+
+    background-color: yellow;
+
+}
+
+.block6{
+
+    background-color: orange;
+    position: sticky;
+    top: 0;
+
+}
+.block7{
+
+    background-color: green;
+
+}
+.block8{
+
+    background-color: gold;
+    position: sticky;
+    top: 0;
+
+}

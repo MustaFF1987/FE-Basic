@@ -1,0 +1,52 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.menu{
+
+    background-color: aqua;
+    border: 1px solid blue;
+    margin: 0 auto;
+    width: 450px;
+
+}
+
+
+ul{
+
+    /* display: flex; */
+    justify-content: center; 
+
+}
+
+li{
+
+    list-style-type: none;
+    border: 1px solid blue;
+    
+}
+
+.info{
+
+    /* width: 100px;
+    display: inline-block;
+    text-align: center; */
+    
+}
+
+
+
+a{
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+   
+}
+
+a:hover{
+
+    background-color: white;
+}

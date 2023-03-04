@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+  .square1{
+  
+        margin: 0 auto ;
+        position: relative;
+        width: 900px;
+        height: 600px;
+        background-color: #4DEE99;
+    }
+
+    .square2{
+
+        position: absolute;
+        top: 150px;
+        left: 450px;
+        width: 100px;
+        height: 100px;
+        background-color: white;
+    }
+
+    
+    .square3{
+
+        position: absolute;
+        bottom: 150px;
+        right: 350px;
+        width: 100px;
+        height: 100px;
+        background-color: white;
+    }
+
+
+

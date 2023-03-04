@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+  .square1{
+    
+        margin: 0 auto ;
+        position: relative;
+        width: 1000px;
+        height: 700px;
+        border: 1px solid green;
+    }
+
+    .square2{
+
+        position: absolute;
+        top: 200px;
+        left: 650px;
+        width: 150px;
+        height: 150px;
+        border: 1px solid red;
+    }
+
