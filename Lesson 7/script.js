@@ -155,8 +155,8 @@
 
 // Задача: Написать программу, которая считывает два числа (объявляем две переменные и записываем туда результат работы двух вызовов  prompt) и выводит их сумму. Не забудьте преобразовать полученные значения в число.
 
-let num1 = Number (prompt('Enter the number'));
-let num2 = Number (prompt('Enter the number'));
-let sum = num1+ num2;
+// let num1 = Number (prompt('Enter the number'));
+// let num2 = Number (prompt('Enter the number'));
+// let sum = num1+ num2;
 
-console.log(sum);
+// console.log(sum);
